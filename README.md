@@ -1,0 +1,2 @@
+# LivePlatform
+netbeans Ecosystem project
